@@ -1,6 +1,7 @@
 {
   "name": "Generos Governance Token", 
   "symbol": "GGT", 
-  "description": "A Generos Fungible Token", 
+  "description": "A Generos Fungible Token",
+  "external_url": "https://generos.io",  
   "image": "https://raw.githubusercontent.com/generos-inc/generos-meta/master/assets/ggt.svg"
 }
