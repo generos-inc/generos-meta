@@ -1,7 +1,17 @@
 {
-  "name": "Generos Gencoin", 
-  "symbol": "GGC", 
-  "description": "A Generos Fungible Asset", 
-  "external_url": "https://generos.io", 
-  "image": "https://raw.githubusercontent.com/generos-inc/generos-meta/master/assets/ggc.svg"
+  "name": "Generos Gencoin",
+  "symbol": "GGC",
+  "description": "A Generos Fungible Asset",
+  "external_url": "https://generos.io",
+  "image": "https://raw.githubusercontent.com/generos-inc/generos-meta/master/assets/ggc.svg",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/generos-inc/generos-meta/master/assets/ggc.svg",
+        "type": "image/svg+xml"
+      }
+    ],
+    "category": "fungible",
+    "creators": []
+  }
 }
